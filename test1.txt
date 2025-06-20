@@ -2,3 +2,4 @@ hi
 how are you
 added by master+test1 branch
 how are you+added in test1 branch
+added by master
